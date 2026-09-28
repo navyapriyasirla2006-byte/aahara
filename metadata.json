@@ -1,0 +1,7 @@
+{
+  "name": "Aahara - Indian Nutrition & Health Food Guide",
+  "description": "Smart time-based Indian meal timing, curative foods for common illnesses, and tailored diets for bulking and weight loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
